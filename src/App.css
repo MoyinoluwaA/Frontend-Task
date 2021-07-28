@@ -1,0 +1,23 @@
+.main {
+    text-align: center;
+}
+
+.filter {
+    margin-bottom: 15px;
+}
+
+#filters {
+    margin-left: 10px;
+}
+
+table {
+    width: 90%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+th {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 7px 0;
+}
